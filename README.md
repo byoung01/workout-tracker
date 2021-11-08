@@ -1,3 +1,3 @@
 # workout-tracker
 
-an app that keeps track off a users workouts
+an app that keeps track of a users workouts
